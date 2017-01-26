@@ -161,6 +161,7 @@ public class VotingServiceImplIntegrationTest {
 		assertTrue(questions.contains(question));
 
 		//Hallo
+		//123
 		// Ich weiﬂ leider nicht , wie man den Test korrekt  implemebtiert
 	}
 

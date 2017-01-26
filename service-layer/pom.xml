@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.hrw.swep</groupId>
 	<artifactId>service-layer</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<build>
 		<plugins>
 			<plugin>
@@ -37,7 +37,7 @@
 		<dependency>
 			<groupId>de.hrw.swep</groupId>
 			<artifactId>db-layer</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>0.0.1</version>
 		</dependency>
 		<dependency>
 			<groupId>org.dbunit</groupId>
