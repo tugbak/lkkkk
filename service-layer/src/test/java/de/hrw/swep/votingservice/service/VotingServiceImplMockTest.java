@@ -43,6 +43,7 @@ public class VotingServiceImplMockTest {
 		when(dbReadMock.getVotesForQuestion(2)).thenReturn(votes);
 		when(dbReadMock.getStatusOfQuestion(2)).thenReturn(false);
 
+		//Hallole
 
 		votingService = new VotingServiceImpl(dbReadMock, dbWriteMock);
 	}

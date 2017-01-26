@@ -160,6 +160,7 @@ public class VotingServiceImplIntegrationTest {
 		Question question = questions.iterator().next();
 		assertTrue(questions.contains(question));
 
+		//Hallo
 		// Ich weiﬂ leider nicht , wie man den Test korrekt  implemebtiert
 	}
 
